@@ -71,4 +71,4 @@ FA-02 (implementado)
 FA-03 (no implementado)
 
 RE-02.3: LINK
-
+https://eepmad-my.sharepoint.com/:v:/g/personal/maria-chumbiauca1_eep-igroup_com/EclFcejlYY9DjAOAaleaRcYBeNR8D8Kokd1BJC5JsSawfg?e=eCtOZl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
